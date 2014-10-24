@@ -1,0 +1,14 @@
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.cache
+*.docstates
+packages/*
+*.pidb
+*.userprefs
+*DS_Store
+*.log
+*.vspx
+*.sln.ide
+*.sublime-workspace
